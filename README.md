@@ -1,4 +1,5 @@
-### hey 👁👄👁
+### 👁👄👁
+### hey
 
 i'm alex.  i'm a first year student in the computer science program at ubc.
 
